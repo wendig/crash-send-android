@@ -1,4 +1,5 @@
 # crash-send-android
+Házi feladat, Android alapú szoftver fejlesztése című tantárgyhoz.
 
 ## Áttekintés
 Az alkalmazás célja lerövidíteni az időt ami kell, a mentők értesítéséhez karambol esetén.
